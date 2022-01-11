@@ -1,5 +1,7 @@
 # face_recognition_project
 The code can do the following:
+
+
 a) Recognize faces using pretrained model (Haarcascade.xml).
 b) Compare the face on screen with the faces stored in folders and identify the face if found similar to one of the images stored in the folders. 
 c) Create a .CSV file with the date in its name and mark attandance for the identified face.
