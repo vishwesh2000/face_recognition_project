@@ -11,7 +11,7 @@
 
 **d)** If a new face is found, asks "Who is this?" and when the name is typed in the console, a new folder with the typed name is created and the new face on screen is saved.
 
-**Python packages** we will need:
+Python packages we will need:
 - openCV (cv2)
 - face_recognition
 - imutils
