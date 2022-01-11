@@ -27,4 +27,4 @@ Few suggestions:
 - Create a python virtual environment for this project and use Anaconda powershell(virenv) to run the code.
 - Hardware implementation of the project could be done using RPI, however other developemental boards could be used based on requirement.
 - A good database could also be created as part of the project and extend the number of people that are identifiable.
-- Store 14 images of each person in their respective folders, make sure not all images are of the same illumination condition and angle. (For best result)
+- Store 14 images of each person in their respective folders, make sure not all images are of the same illumination condition and angle. (For best results)
